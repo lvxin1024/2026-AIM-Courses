@@ -15,7 +15,7 @@
 从 VMware 官方下载：
 - VMware  Workstation Pro
 - [官方地址](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
-打开网址->注册账号->可能会重定向，重新输入以上网址->根据自己电脑选择windows or linux->选择最新的版本，跳转到以下页面!![PrtSc](image-1.png)![alt text](image-2.png)
+打开网址->注册账号->可能会重定向，重新输入以上网址->根据自己电脑选择windows or linux->选择最新的版本，跳转到以下页面![alt text](image.png)
 点击箭头所指条例，再退回来勾选红框中的agree，点击蓝框下载
 
 ### 安装
